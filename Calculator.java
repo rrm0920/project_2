@@ -7,7 +7,7 @@ import java.util.Stack;
 
 import javax.swing.*;
 
-#SX2216129芮茹梦
+
 //Calculator类，继承JFrame框架，实现事件监听器接口
 public class Calculator extends JFrame implements ActionListener {
     private final String[] KEYS = {"7", "8", "9", "AC", "4", "5", "6", "-", "1", "2", "3", "+", "0", "e", "pi", "/", "sqrt", "%", "x*x", "*", "(", ")", ".", "="};
